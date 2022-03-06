@@ -1,0 +1,18 @@
+[
+    {
+        "id" : 1,
+        "userPhoto": "1.jpg",
+        "userName": "Dmitriy Ladynskiy",
+        "postImage": "1.jpg",
+        "postTitle": "How To Be A Good Programmer?",
+        "postText" : "YOU DONT HAVE TO BE A ROCKET SCIENTIST TO BE A DECENT PROGRAMMER. The First thing a Programmer should think about or does think about is Problem-solving. The logical and analytical thinking behind..."
+    },
+    {
+        "id" : 2,
+        "userPhoto": "2.jpg",
+        "userName": "John Johnson",
+        "postImage": "2.jpg",
+        "postTitle": "Data Structures and Algorithms in Real Life.",
+        "postText" : "Be interview-ready with these practical examples. — Q. Data Structures in real life. Seriously? Why do I need to know this buddy? — because the interviewer got no chill! So, girls and boys, allow me to present — what yo..."
+    }
+]
